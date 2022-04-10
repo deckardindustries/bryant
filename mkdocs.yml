@@ -1,3 +1,23 @@
-site_name: Hello World
+site_name: Bryant
 theme:
   name: material
+  palette:
+    scheme: default
+    primary: black
+    accent: black
+  font:
+    text: Inter
+    code: Fira Code
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - navigation.tracking
+    - toc.integrate    
+extra_css:
+  - stylesheets/extra.css
+copyright: Copyright &copy; 2022 Deckard Industries
+extra:
+  generator: false
+repo_url: https://github.com/deckardindustries/Bryant
+repo_name: deckardindustries/Bryant
