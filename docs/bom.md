@@ -34,7 +34,7 @@
 
 ## Extruder and Hotend 
 
-> If you want to use a different extruder and hot-end refer to the EVA 2.4 BOM.
+> If you want to use a different extruder and hot-end refer to the EVA BOM.
 
 | Part                        | Quantity | Cost   | Source     | Notes                             |
 | ----------------------------| -------- | ----   | ------     | --------------------------------- |
