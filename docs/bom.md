@@ -51,7 +51,8 @@
 | Pi Zero 2W                  | `1x`     | €20   | [Link][14] | *For running Klipper*             |
 | ADXL345 Sensor              | `1x`     | €1,40 | [Link][15] | *For Input Shaper*                |
 | D2F-5L Endstops             | `2x`     | €3    | [Link][16] | *For Gantry Endstops*             |
-| **Total cost**              |          | €24,40|            |                                   |
+| BLTouch sensor              | `1x`     | €16   | [Link][17] | *Genuine or clone*                |
+| **Total cost**              |          | €40,40|            |                                   |
 
 ## Nuts and Bolts
 
@@ -71,3 +72,4 @@
 
 [14]: https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/
 [15]: https://nl.aliexpress.com/item/32452794842.html?spm=a2g0o.productlist.0.0.17336aeep2kYRZ&algo_pvid=1aedc9f2-e4b5-4865-94f9-1f6661d65ead&algo_exp_id=1aedc9f2-e4b5-4865-94f9-1f6661d65ead-0&pdp_ext_f=%7B%22sku_id%22%3A%2255826588126%22%7D&pdp_pi=-1%3B1.38%3B-1%3B-1%40salePrice%3BEUR%3Bsearch-mainSearch
+[17]: https://nl.aliexpress.com/item/32949450525.html?spm=a2g0o.productlist.0.0.55bf93aawe3xM7&algo_pvid=7f861e9e-cd52-4c88-9d43-10755223badb&algo_exp_id=7f861e9e-cd52-4c88-9d43-10755223badb-18&pdp_ext_f=%7B%22sku_id%22%3A%2212000025395041343%22%7D&pdp_pi=-1%3B16.13%3B-1%3B-1%40salePrice%3BEUR%3Bsearch-mainSearch
