@@ -6,7 +6,7 @@
 
 The goal of the project is to take the very affordable Creality Ender 5 (Pro/Plus) and to make it a very solid [CoreXY](https://corexy.com/theory.html) printer. You might even go as far as to say it will get in the range of something like a [Voron](https://vorondesign.com) or [RatRig](https://www.ratrig.com). Will it replace them, no. But if you don't want to build your own printer from scratch, like to mod a printer you already got, have most of the parts available from other builds or got an Ender 5 for an affordable price these modifications will get you in the ballpark of those printers.
 
-![Mercury Render](https://github.com/ZeroGDesign/Mercury/raw/main/Renders/render.png)
+![Mercury Render](https://docs.zerog.one/assets/images/printer/birdview.png)
 
 ## Features
 
