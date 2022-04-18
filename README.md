@@ -15,6 +15,21 @@ The goal of the project is to take the very affordable Creality Ender 5 (Pro/Plu
 
 80% of the parts in this project are based on other projects for the Ender 5. We will use parts from the Mercury One project, the Eva 3D project. Other parts and ideas are inspired by the Voron community, the RatRig V Core printer and the VZBot printer. A huge thanks to all of the people behind those project for open-sourcing their parts so we can use and build upon them!
 
+## Contributions
+
+This repository has the `STL files` for all the printed parts and uses the [MKDocs Material Theme](https://squidfunk.github.io/mkdocs-material/) for the documentation. If you want to run the documentation locally [install MKDocs ](https://squidfunk.github.io/mkdocs-material/getting-started/) (using `pip`) and run the following commands:
+
+1. Git clone this repository
+
+```
+git clone https://github.com/deckardindustries/Bryant.git
+```
+
+2. Run the serve (or build) command
+```
+mkdocs serve
+```
+
 ## License
 
 [MIT](license) © [Danny de Vries](https://dandevri.es)
